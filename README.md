@@ -1,3 +1,60 @@
+<h1> Wonderlust | Hotel Listing Web App  </h1> 
+
+Go on this link to use https://wunderlust-i9vy.onrender.com/
+
+
+<h3>Features </h3>
+
+
+User Authentication: Sign up, log in, log out, and secure user sessions using JWT.
+
+Hotel Listings: View hotels with details like location, description, and price.
+
+Review System: Leave and view reviews on hotel listings.
+
+Add Hotels: Users can list their own hotels by providing necessary details and location.
+
+Location Mapping: Integrated with Map Box (or another map service) to show the hotel’s location.
+
+Responsive Design: Works seamlessly on desktop and mobile devices.
+
+<h3>Tech Stack </h3>
+
+Frontend: React.js, HTML, CSS, JavaScript
+
+Backend: Node.js, Express.js
+
+Database: MongoDB (Mongoose for schema management)
+
+Authentication: JWT-based authentication
+
+Maps Integration: Map Box API (or any similar mapping service)
+
+
+
+
+<h3>Preview of the Site</h3>
+
+
+
+------------------------------------------------------------------------------
+![Screenshot (720)](https://github.com/user-attachments/assets/270762e8-caa8-4ad8-9c70-b2c3cb268e9b)
+
+------------------------------------------------------------------------------
+![Screenshot (721)](https://github.com/user-attachments/assets/c70405bf-161a-4156-b9d4-b0936bb69719)
+
+-------------------------------------------------------------------------------
+![Screenshot (722)](https://github.com/user-attachments/assets/31ac387e-d1fa-4d37-984f-68a5ea95a1e9)
+
+-------------------------------------------------------------------------------
+![Screenshot (723)](https://github.com/user-attachments/assets/4c1eb2d5-1f7c-4b21-b03f-7ed92305c0c7)
+
+
+-------------------------------------------------------------------------
+
+
+
+
 Here's a step-by-step guide for using your Wonderlust project, including installation and usage on a local system. This guide assumes the user is familiar with Git, Node.js, and MongoDB.
 
 Step 1: Prerequisites
